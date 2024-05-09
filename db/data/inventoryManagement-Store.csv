@@ -1,0 +1,16 @@
+ID;productID;productName;shelfID;leadTime;warehouse_ID;stock;reorderLevel;sales;stockLevel
+2f63adde-0b55-4656-b79c-9b8068d4298d;ID 275;Rote Linsten Pasta;shelfID8882;2;15b0abb4-be1e-4858-9f40-4fcb32e43bcb;100;;50;
+a91e5f72-3d45-4eae-9ed3-45c43fa6bc97;ID 573;Pizza Quattro Formaggi;shelfID1651;2;37d3095d-d122-4a45-914d-ca52041f5117;400;;50;
+004d84f3-e3f5-407a-b710-36bbc3ca6e44;ID 756;Musli;shelfID5701;2;2a4d356d-3328-46be-97d4-290a899cd956;100;;20;
+421d11f7-ad8b-4815-97f4-29fffe41ccff;ID 674;Cornflakes Original;shelfID2862;2;df7312d5-b558-450d-aeb5-951159ecac31;50;;10;
+d98e803f-8fc1-469f-a982-a348acaa22f2;ID 331;Blueberry Musli;shelfID7009;1;33590090-7444-4aab-af61-3a94c8c49a13;350;;100;
+9c267e97-538f-46fc-93c3-ae43bb68f381;ID 130;Salt City Original Musili;shelfID587;4;c80502ef-fedc-46dc-a25f-61311593ba53;200;;50;
+3f1e9a37-ca3c-43fc-8a51-a84f733605c9;ID 190;Limonade Apfel Kirsch;shelfID9059;4;e8d85095-bde5-4199-98ae-4ee368871b7a;10;;1;
+ac0fe21a-5661-44c6-9a35-ee850a5a37b7;ID 821;Orange Cola;shelfID5475;4;6dcce485-6d0e-4deb-a50d-69a459f5aa8e;100;;20;
+d4e83732-e72d-477f-8501-abbe955fba83;ID 318;Still Water;shelfID7479;1;2c9d13e6-0cfb-45b1-b0f3-83a65f98e514;40;;30;
+3d790dfe-d2c5-47ec-8292-c0ac612de915;ID 732;Festbier;shelfID3208;1;40848aea-915c-4026-b294-5a892189f7a2;40;;30;
+a9d78fca-ce70-4a44-9751-f0879aa66727;ID 800;Apple Cinnemon Trinkmahlzeit;shelfID8364;2;e75afa13-d7c8-4f4b-a017-7001e1e92763;30;;10;
+f035305c-4929-4655-88c0-c000320d6c43;ID 784;Margarine;shelfID2401;3;69364561-25e2-4648-9877-afc9cb50a5e3;10;;5;
+e221d9cd-269c-4e6e-8a3b-cd8bea51c987;ID 163;Paprika Spread;shelfID5937;1;7a529206-1631-45ef-981c-5a338fd45366;40;;5;
+449e5a06-f6fa-4b07-820e-46e3586470c7;ID 248;Tikka Masala;shelfID9883;2;7088525d-6a4d-4605-b945-295cf41705d1;50;;5;
+828a1357-0ab7-45af-9e92-0eb26b093bc9;ID 249;Vegan Thai Curry;shelfID8839;3;bebda673-6473-48c9-82a9-8fcd426c0b4b;100;;50;

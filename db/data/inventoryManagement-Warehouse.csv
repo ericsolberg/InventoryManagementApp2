@@ -1,0 +1,21 @@
+ID;name;location;materialNumber;materialName;supplier;availableStock;baseUnit;product_ID
+15b0abb4-be1e-4858-9f40-4fcb32e43bcb;Warehouse BER;Park Str. 36;ID 275;Rote Linsten Pasta;eworldtrade;1000;PC;5251eec5-3c77-4052-ba0e-3c6374772172
+37d3095d-d122-4a45-914d-ca52041f5117;Warehouse BER;Park Str. 36;ID 573;Pizza Quattro Formaggi;eworldtrade;750;PC;71901a73-26cf-4e67-8f5e-82f9ce1b692b
+2a4d356d-3328-46be-97d4-290a899cd956;Warehouse BER;Park Str. 36;ID 756;Musli;eworldtrade;200;PC;1b5dd734-b551-4f2e-aefb-92f7748dd0b5
+df7312d5-b558-450d-aeb5-951159ecac31;Warehouse BER;Park Str. 36;ID 674;Cornflakes Original;eworldtrade;2500;PC;c9a80694-bcfa-4f2e-9ad9-87b3ce804b54
+33590090-7444-4aab-af61-3a94c8c49a13;Warehouse SCH;Kieler Strasse 82;ID 331;Blueberry Musli;Bizvibe;400;PC;5251eec5-3c77-4052-ba0e-3c6374772172
+c80502ef-fedc-46dc-a25f-61311593ba53;Warehouse SCH;Kieler Strasse 82;ID 130;Salt City Original Musili;Bizvibe;100;PC;1b5dd734-b551-4f2e-aefb-92f7748dd0b5
+e8d85095-bde5-4199-98ae-4ee368871b7a;Warehouse SCH;Kieler Strasse 82;ID 190;Limonade Apfel Kirsch;Bizvibe;2300;PC;42565ec1-8ab7-4380-96f0-1bf3facc17bf
+6dcce485-6d0e-4deb-a50d-69a459f5aa8e;Warehouse SCH;Kieler Strasse 82;ID 821;Orange Cola;Bizvibe;500;PC;71901a73-26cf-4e67-8f5e-82f9ce1b692b
+2c9d13e6-0cfb-45b1-b0f3-83a65f98e514;Warehouse SCH;Kieler Strasse 82;ID 318;Still Water;Bizvibe;2000;PC;c9a80694-bcfa-4f2e-9ad9-87b3ce804b54
+40848aea-915c-4026-b294-5a892189f7a2;Warehouse KAR;Genterstrasse 62;ID 732;Festbier;Santandertrade;40;PC;778a9f89-68be-43a2-9636-69e28f570919
+e75afa13-d7c8-4f4b-a017-7001e1e92763;Warehouse KAR;Genterstrasse 62;ID 800;Apple Cinnemon Trinkmahlzeit;Santandertrade;5000;PC;5251eec5-3c77-4052-ba0e-3c6374772172
+69364561-25e2-4648-9877-afc9cb50a5e3;Warehouse KAR;Genterstrasse 62;ID 784;Margarine;Santandertrade;400;PC;71901a73-26cf-4e67-8f5e-82f9ce1b692b
+7a529206-1631-45ef-981c-5a338fd45366;Warehouse KAR;Genterstrasse 62;ID 163;Paprika Spread;Santandertrade;200;PC;1b5dd734-b551-4f2e-aefb-92f7748dd0b5
+7088525d-6a4d-4605-b945-295cf41705d1;Warehouse KAR;Genterstrasse 62;ID 248;Tikka Masala;Santandertrade;100;PC;b148cce3-ac3d-4ed8-b16e-9f0f5c84b36a
+bebda673-6473-48c9-82a9-8fcd426c0b4b;Warehouse KAR;Genterstrasse 62;ID 249;Vegan Thai Curry;Santandertrade;200;PC;f5e9a1f1-59d5-42bc-91c8-b95eee49bc2e
+7fefa77a-f406-4bc7-8fa9-be9c7ed56573;Warehouse KAR;Genterstrasse 62;ID 275;Rote Linsten Pasta;Santandertrade;50;PC;15f7fcd7-1037-4e70-b502-da1ca180edf1
+623381ee-67e5-47bb-ae19-477c5bf65c77;Warehouse DUS;Hardenbergstraße 4;ID 573;Pizza Quattro Formaggi;eworldtrade;50;PC;5251eec5-3c77-4052-ba0e-3c6374772172
+aa76ce43-5028-43ee-9faa-e560add2b151;Warehouse DUS;Hardenbergstraße 4;ID 756;Musli;eworldtrade;10;PC;1b5dd734-b551-4f2e-aefb-92f7748dd0b5
+a98ff6fa-0732-4e5c-80d7-e9fd817d6b1c;Warehouse DUS;Hardenbergstraße 4;ID 674;Cornflakes Original;eworldtrade;50;PC;778a9f89-68be-43a2-9636-69e28f570919
+5a2df7a6-4096-4646-9f86-5a211c213d4d;Warehouse DUS;Hardenbergstraße 4;ID 331;Blueberry Musli;eworldtrade;100;PC;15f7fcd7-1037-4e70-b502-da1ca180edf1
